@@ -1,0 +1,183 @@
+body {
+  color: #40514e;
+  margin: 0;
+}
+.top-content {
+  background-color: #e0f8f8;
+  text-align: center;
+  padding: 5px;
+}
+.middle-content {
+  background-color: #ebf0ff;
+  text-align: center;
+  padding: 5px;
+}
+.bottom-content {
+  background-color: #66bfbf;
+  text-align: center;
+  padding: 5px;
+  height: 150px;
+}
+.my-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  margin-bottom: 0;
+  width: 250px;
+}
+.myself {
+  float: left;
+  border-radius: 250px;
+  display: block;
+  margin-right: 30px;
+  width: 25%;
+}
+.bicycle {
+  float: right;
+  border-radius: 250px;
+  display: block;
+  margin-left: 30px;
+  margin-right: auto;
+  width: 25%;
+}
+.mountain {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 109px;
+}
+.cloud-top {
+  position: relative;
+  left: 350px;
+  bottom: 400px;
+}
+.cloud-bottom {
+  position: relative;
+  right: 300px;
+  bottom: 300px;
+}
+.rocket {
+  position: relative;
+  width: 100px;
+  bottom: 260px;
+}
+h1 {
+  font-family: "Nanum Gothic", sans-serif;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+}
+h3 {
+  font-family: "Zen Maru Gothic", sans-serif;
+  color: #66bfbf;
+}
+p {
+  font-family: "Merriweather", serif;
+  line-height: 2;
+}
+.header-title {
+  color: #66bfbf;
+  margin-top: 100px;
+  margin-bottom: -10px;
+  padding-bottom: 0;
+}
+.header-text {
+  color: #66bfbf;
+  padding: 0;
+}
+a {
+  color: #11787c;
+  text-decoration: none;
+}
+a:hover {
+  color: #eaf6f6;
+}
+.copyright-text {
+  color: #eaf6f6;
+  display: block;
+  font-size: 0.75rem;
+  padding: 15px auto 15px auto;
+  margin: 70px auto 15px auto;
+}
+.instagram {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: 40px;
+  margin: 50px 15px 50px 15px;
+}
+.twitter {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: 40px;
+  margin: 50px 15px 50px 15px;
+}
+.facebook {
+  font-family: "Montserrat", sans-serif;
+  position: relative;
+  top: 40px;
+  margin: 50px 15px 50px 15px;
+}
+.first-info-block {
+  width: 37%;
+  margin: 40px auto;
+  text-align: center;
+}
+.second-info-block {
+  width: 45%;
+  margin: 50px auto 40px auto;
+  text-align: left;
+}
+.third-info-block {
+  width: 50%;
+  margin: 60px auto 40px auto;
+}
+hr {
+  margin: 80px auto 80px auto;
+  border: dotted #caecec 6px;
+  border-bottom: none;
+  width: 5%;
+}
+.first-skill {
+  margin-bottom: 100px;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border: none;
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #eaf6f6;
+  font-size: 20px;
+
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cd;
+  background-image: -webkit-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cd, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cd, #2bc4ad);
+  text-decoration: none;
+}
+.info-h3 {
+  margin: 30px auto 30px;
+}
+.info-h2 {
+  margin: 30px auto 30px;
+}
+.info-p {
+  margin: 30px auto 30px;
+}

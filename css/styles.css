@@ -143,6 +143,13 @@ hr {
 }
 .first-skill {
   margin-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.second-skill {
+	margin-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 .btn {
   background: #11cdd4;
